@@ -1,2 +1,3 @@
-# app-dev
-My first repository
+# **MY FAVORITE MOVIE**
+## Fight Club
+### Fight Club is about an insomniac office worker who, along with a charismatic soap salesman named Tyler Durden, starts an underground club where men fight to release their frustration and anger. The club grows into an anti-consumerist movement called Project Mayhem, which escalates into domestic terrorism to destroy societal institutions, and the story is marked by a major plot twist regarding the narrator's identity. The film and book serve as a critique of consumerism, materialism, and modern masculinity, and explore themes of rebellion, authenticity, and identity. 
